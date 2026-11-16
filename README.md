@@ -1,7 +1,7 @@
 ## Ma formation
 Administratrice systèmes et réseaux en formation à Nexa Digital School.
 
-Actuellement en formation en administration des systèmes et réseaux, je développe mes compétences dans la gestion des infrastructures informatiques, l'administration des systèmes, la configuration des réseaux et la cybersécurité.
+Actuellement en formation en cybersécurité, je développe mes compétences dans la gestion des infrastructures informatiques, l'administration des systèmes, la configuration des réseaux et la cybersécurité.
 
 ## Ce que je recherche
 Recherche d'une alternance en administration systèmes et réseaux.
